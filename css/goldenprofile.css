@@ -1,0 +1,44 @@
+
+.playerAvatar.profile_header_size .playerAvatarAutoSizeInner .profile_avatar_frame {
+
+
+}
+
+.profile_header .persona_name {
+    color: #f7da72;
+    font-weight: normal;
+}
+
+.profile_small_header_text .whiteLink {
+    color: #f7da72;
+}
+
+.profile_small_header_text .whiteLink:hover {
+    color: #f7da72;
+}
+
+.profile_header .profile_header_centered_persona {
+    position: absolute;
+    left: 190px;
+    right: 268px;
+    white-space: nowrap;
+}
+
+.profile_header .profile_summary.noexpand {
+    height: 76px;
+    padding-left: 5px;
+}
+
+.profile_header .profile_summary {
+    color: #dcc570;
+}
+
+.profile_header_content {
+    color: #dcc570;
+}
+
+.profile_customization_header {
+    color: #dcc570;
+    font-weight: normal;
+
+}
